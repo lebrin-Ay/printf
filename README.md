@@ -16,5 +16,5 @@ This repository is about printf function, the basic and main functions.
 Advanced Tasks
 
 ## Authors
-- [Eboweme Ayo] (https://www.github.com/lebrin-Ay)
-- [Rachael Oderinde] (https://www.github.com/Ibke)
+- [Eboweme Ayo](https://www.github.com/lebrin-Ay)
+- [Rachael Oderinde](https://www.github.com/Ibke)
