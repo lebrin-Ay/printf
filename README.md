@@ -2,7 +2,7 @@
 
 This repository is about printf function, the basic and main functions.
 
-#Tasks
+# Tasks
 
 0. Write a function that produces output according to a format.
 - c
@@ -15,6 +15,6 @@ This repository is about printf function, the basic and main functions.
 
 Advanced Tasks
 
-#Authors
+# Authors
 - [Eboweme Ayo] (https://www.github.com/lebrin-Ay)
 - [Rachael Oderinde] (https://www.github.com/Ibke)
