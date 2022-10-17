@@ -1,12 +1,20 @@
-## 0x11. C - printf
+## 0X11.C - printf
 
-This is a group project between me and @Ibke (Rachael Oderinde)
+This repository is about printf function, the basic and main functions.
 
-Authorized functions and macros
-write (man 2 write)
-malloc (man 3 malloc)
-free (man 3 free)
-va_start (man 3 va_start)
-va_end (man 3 va_end)
-va_copy (man 3 va_copy)
-va_arg (man 3 va_arg)
+#Tasks
+
+0. Write a function that produces output according to a format.
+- c
+- s
+- %
+
+1. Handle the following conversion specifiers:
+- d
+- i
+
+Advanced Tasks
+
+#Authors
+- [Eboweme Ayo] (https://www.github.com/lebrin-Ay)
+- [Rachael Oderinde] (https://www.github.com/Ibke)
